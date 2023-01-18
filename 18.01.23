@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+//int main() {
+//	int age;
+//	cin >> age;
+//	if (age >= 0 && age <= 100) { cout << "ok"; }
+//	else cout << "wrong";
+//	string name;
+//	cin >> name;
+//	if (name == "danila" || name == "Danila") { cout << "ok"; }
+//	else cout << "wrong";
+	//int main() {
+	//int catage, dogage;
+	//if (catage > 0 && catage < 20) { cout << "cat age ok"; }
+	//else cout << "cat is too old" << endl:
+	//if (dogage > 0 && dogage < 20) { cout << "dog age ok"; }
+	//else cout << "dog is too old" << endl;
+//int age = 15, height = 182, mark = 10;
+//cin; >> age >> height >> mark;
+//if (age > 0 && age < 100) { cout << "age ok" };
+//	else cout < "age wrong";
+//	if (height > 150 && height > 200) {cout << "ok"; }
