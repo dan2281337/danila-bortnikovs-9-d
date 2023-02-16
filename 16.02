@@ -1,0 +1,51 @@
+#include <iostream>
+//#include<vector>
+//using namespace std;
+//int main() {
+//	//vector <int>sk{ 1,2,3,1,2 };
+//	//if (sk[0] == 1)cout << "ir sk 1 pirmaja vieta" << endl;
+//	//if (sk[1] == 1)cout << "ir sk 1 otraja vieta" << endl;
+//	//if (sk[2] == 1)cout << "ir sk 1 tresaja vieta" << endl;
+//	//if (sk[3] == 1)cout << "ir sk 1 ceturtaja vieta" << endl;
+//	//if (sk[4] == 1)cout << "ir sk 1 piektaja vieta" << endl;
+//	//if (sk[0] == 4)cout << "ir sk 4 pirmaja vieta" << endl;
+//	//if (sk[1] == 4)cout << "ir sk 4 otraja vieta" << endl;
+//	//if (sk[2] == 4)cout << "ir sk 4 tresaja vieta" << endl;
+//	//if (sk[3] == 4)cout << "ir sk 4 ceturtaja vieta" << endl;
+//	//if (sk[4] == 4)cout << "ir sk 4 piektaja vieta" << endl;
+//	//string atb;
+//	//string tel;
+//	//vector <string>sk{ "+1", "+44", "+86", "+91", "+1", "+61" };
+//	//vector <string>ct{ "USA", "UK", "China", "India", "Canada", "Australia" };
+//	//cin >> atb;
+//	//cin >> tel;
+//	//if (sk[0] == atb) { cout << ct[0] << " " << atb << tel << endl; }
+//	//if (sk[1] == atb) { cout << ct[1] << " " << atb << tel << endl; }
+//	//if (sk[2] == atb) { cout << ct[2] << " " << atb << tel << endl; }
+//	//if (sk[3] == atb) { cout << ct[3] << " " << atb << tel << endl; }
+//	//if (sk[4] == atb) { cout << ct[4] << " " << atb << tel << endl; }
+//	//if (sk[5] == atb) { cout << ct[5] << " " << atb << tel << endl; }
+//	//int atz;
+//	//vector<int>atzi{ 3,8,7,4 };
+//	//vector<string>vards{ "Anna", "Antons", "Vlads", "Artemijs" };
+//	//cin >> atz;
+//	//if (atzi[0] == atz) { cout << vards[0] << " " << atzi[0] << endl; }
+//	//if (atzi[1] == atz) { cout << vards[1] << " " << atzi[1] << endl; }
+//	//if (atzi[2] == atz) { cout << vards[2] << " " << atzi[2] << endl; }
+//	//if (atzi[3] == atz) { cout << vards[3] << " " << atzi[3] << endl; }
+//	//if (atzi[0] != atz && atzi[1] != atz && atzi[2] != atz && atzi[3] != atz) { cout << "Tadas atzimes nav" << endl; }
+//
+//	/*
+//	string atb, dat;
+//	vector<string>atbild{ "ja","ne" };
+//	vector<string>dat1{ "11.11", "29.09", "18.11" };
+//	vector<string>svet{ "Lacplesa diena", "Mikeli", "LV proklamesanas diena" };
+//	cout << "Vai jus gribat redzet valsts svetkus?";
+//	cin >> atb;
+//	if (atbild[0] == atb) {
+//	cout << dat1[0] << " " << svet[0] << endl;
+//	cout << dat1[1] << " " << svet[1] << endl;
+//	cout << dat1[2] << " " << svet[2] << endl;
+//		if (atbild[1] == atb) { cout << "Good bye"; }*/
+//
+//		
