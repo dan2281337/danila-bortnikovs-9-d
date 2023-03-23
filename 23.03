@@ -1,0 +1,35 @@
+CREATE TABLE EMPLOYEE (
+  nosaukumsId Integer PRIMARY KEY,
+  kurjera_v TEXT NOT NULL,
+  kurjera_u TEXT NOT NULL.
+  rajons TEXT NOT NULL,
+  vecums INTEGER NOT NULL,
+  dzimte TEXT NOT NULL
+  );
+  INSERT INTO EMPLOYEE VALUES (1,'Alla','Kotova','Rīģa')
+  INSERT INTO EMPLOYEE VALUES (2,'Vlads','Krastins','Rīga')
+   INSERT INTO EMPLOYEE VALUES (3,'Grigorijs','Gaids','Ogre')
+   INSERT INTO EMPLOYEE VALUES(4,'Kira','Klimova','Saulkrasti')
+   
+   SELECT " FROM EMPLOYEE ;
+   
+   SELECT * FROM EMPLOYEE where vecums>45;
+   SELECT * FROM EMPLOYEE where rajons='Rīga' and dzimte='sieviete' ;
+   SELECT ABG(vecums)
+   From EMPLOYEE;
+   
+   CREATE TABLE EMPLOYEE (
+   employe_Id Integer PRIMARY KEY,
+   first_name TEXT NOT NULL,
+   last_name TEXT NOT NULL,
+   customer_ID Integer NOT NULL,
+   customer_name TEXT NOT NULL
+   INSERT INTO EMPLOYEE VALUES (1, 1, 'Thomas','Anderson','Jewerly Store')
+   INSERT INTO EMPLOYEE VALUES (2, 2, 'Thomas','Anderson','Bakey')
+   INSERT INTO EMPLOYEE VALUES (3, 3,'Thomas','Anderson','Cafe')
+   INSERT INTO EMPLOYEE VALUES (4, 4, 'Agent','Anderson','Restaurant')
+    INSERT INTO EMPLOYEE VALUES (1, 1, 'Agent','Smith','Jewerly Store')
+     INSERT INTO EMPLOYEE VALUES (2, 2, 'Agent','Smith','Bakery')
+      INSERT INTO EMPLOYEE VALUES (3, 3, 'Agent', 'Smith','Cafe')
+       INSERT INTO EMPLOYEE VALUES (4, 4, 'Agent','Smith','Restaurant')
+   )
